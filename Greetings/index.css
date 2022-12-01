@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+.buttons {
+  margin-top: 20px !important;
+}
+.greeting-paragraph {
+  font-family: sans-serif;
+  font-size: x-large;
+  font-weight: bolder;
+  margin-left: 20px;
+}
+.increment-decrement-buttons {
+  width: 100px;
+}
+.timimg-para {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: xx-large;
+}
